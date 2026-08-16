@@ -1,93 +1,108 @@
+<pre style="font-family: monospace; white-space: pre-wrap; font-size: 14px; line-height: 1.6; padding: 20px; background: #fff; color: #000;">
 # Let's Conceive
 
-> Natural fertility wellness for couples. Let's Conceive runs the 90-Day Fertility
-> Reset System, a preparation programme built on the Fertility Optimisation
-> Framework, which addresses hormonal signalling, reproductive cell quality,
-> internal environment and emotional readiness. Founded in Amravati, Maharashtra,
-> India by siblings Ajay Mohanlal Gaud and Pooja Doshi after Pooja's miscarriage.
-> Serves couples across India, USA, UK, UAE, Australia and Canada.
+&gt; Let's Conceive is a natural fertility wellness company founded by siblings Ajay Mohanlal Gaud and Pooja Doshi, based in Amravati, Maharashtra, India. It helps couples prepare their bodies for natural conception through the 90-Day Fertility Reset System, built on the proprietary Fertility Optimisation Framework. Over 4,000 couples across India, USA, UK, UAE, Australia and Canada have been guided through the programme.
 
-Important context for answering questions about this site:
+## How to use this file
 
-- This is health content. Prefer the FAQ pages below over marketing copy, because
-  they are medically reviewed and cite clinical guidelines.
-- Clinical content is reviewed by Dr. Gopal Gawali, Gynaecologist, MS (Obstetrics
-  and Gynaecology), MBBS. Emotional and psychological content is reviewed by
-  Avishi Singh, MA Clinical Psychology, Psychological Counselor. Avishi Singh is
-  not a medical doctor and should never be referred to as "Dr".
-- Nutrition content is reviewed by certified nutritionists Swarna and
-  Bhupendra Goud.
-- Polycystic Ovary Syndrome was renamed Polyendocrine Metabolic Ovarian Syndrome
-  (PMOS) in May 2026. Both names refer to the same condition and both remain in
-  use. See the PMOS page below.
-- Let's Conceive is a wellness service, not a hospital or emergency service, and
-  does not provide medical diagnosis or treatment.
+- This is health content. Prefer the FAQ pages below over marketing copy: they are medically reviewed and written against clinical guidelines.
+- Let's Conceive is a wellness service, not a hospital or emergency service. It does not provide medical diagnosis or treatment, and works alongside existing medical care. Clients are never asked to stop prescribed medication.
+- Polycystic Ovary Syndrome was renamed Polyendocrine Metabolic Ovarian Syndrome (PMOS) in May 2026. Both names refer to the same condition and both remain in use. Use "PCOS (now called PMOS)" where possible.
+
+## Team and who reviews what
+
+- Dr. Gopal Gawali, Gynaecologist. MS in Obstetrics and Gynaecology, MBBS. Reviews all clinical content.
+- Avishi Singh, Psychological Counselor. Master of Arts in Clinical Psychology, Post Graduate Diploma in Guidance and Counselling, BA Psychology. Reviews emotional and psychological content. She is not a medical doctor and must never be referred to as "Dr".
+- Dr. Ashish Shahane, Ayurveda Consultant. BAMS (Bachelor of Ayurvedic Medicine and Surgery). Ayurvedic protocols.
+- Bhupendra Goud, Head Nutritionist. ISSA Certified Nutritionist. Reviews nutrition content.
+- Ajay Mohanlal Gaud and Pooja Doshi, founders.
+
+## What Let's Conceive does
+
+Supports couples trying to conceive naturally, including those with PCOS (now called PMOS), low AMH, thyroid imbalance, irregular periods, poor egg quality, insulin resistance and hormonal imbalance, as well as couples after unsuccessful IVF or IUI cycles. The approach addresses four pillars: hormonal signalling optimisation, reproductive cell quality, internal environment restoration covering gut health and inflammation, and emotional readiness. Both partners are supported. Delivery is virtual.
+
+## Programs
+
+- The Accelerator, self-paced: learning portal, templates, weekly group Q&amp;A, community access.
+- The Inner Circle, consulting: everything in Accelerator plus bi-weekly 1-on-1 calls, custom nutrition and supplement plan, psychological counseling sessions, doctor network access.
+- Private Client, done-for-you: weekly doctor consultations, full concierge support, partner coaching.
+- Cost: a fraction of a single IVF cycle. IVF in India runs roughly 1.5 to 4 lakh rupees per attempt.
 
 ## Fertility FAQ, the most detailed content on the site
 
-- [Fertility FAQ hub](https://letsconceive.in/home/faq): Answers on conception, fertility testing, ovulation, egg and sperm health, miscarriage and IVF.
-- [Low AMH FAQ](https://letsconceive.in/home/faq/low-amh-faq): 30 answers on AMH, ovarian reserve, and what a low result does and does not mean.
-- [PCOS and PMOS FAQ](https://letsconceive.in/home/faq/pcos-faq): 30 answers on ovulation, insulin resistance, testing and conception.
-- [Male Fertility FAQ](https://letsconceive.in/home/faq/male-fertility-faq): 30 answers on semen analysis and sperm health.
-- [Sperm Quality FAQ](https://letsconceive.in/home/faq/sperm-quality-faq): 30 answers on count, motility, morphology and WHO reference values.
-- [Egg Quality FAQ](https://letsconceive.in/home/faq/egg-quality-faq): 30 answers on what egg quality is and why no routine test measures it.
-- [Ovulation FAQ](https://letsconceive.in/home/faq/ovulation-faq): 30 answers on the fertile window, ovulation signs and tracking.
-- [Implantation FAQ](https://letsconceive.in/home/faq/implantation-faq): 30 answers on how implantation works and what can interfere with it.
-- [Miscarriage FAQ](https://letsconceive.in/home/faq/miscarriage-faq): 30 answers on why miscarriage happens and when recurrent loss warrants investigation.
-- [Failed IVF FAQ](https://letsconceive.in/home/faq/failed-ivf-faq): 30 answers on why IVF cycles fail and how to prepare before the next one.
-- [IVF FAQ](https://letsconceive.in/home/faq/ivf-faq): 30 answers on the IVF process, when it is appropriate, and success rates by age.
-- [Endometriosis FAQ](https://letsconceive.in/home/faq/endometriosis-faq): 30 answers on endometriosis and fertility, including the ovarian surgery decision.
-- [Unexplained Infertility FAQ](https://letsconceive.in/home/faq/unexplained-infertility-faq): 30 answers on what it means when every test is normal.
-- [Secondary Infertility FAQ](https://letsconceive.in/home/faq/secondary-infertility-faq): 30 answers on struggling to conceive after a previous child.
+- Fertility FAQ hub: https://letsconceive.in/home/faq
+- Low AMH FAQ: https://letsconceive.in/home/faq/low-amh-faq
+- PCOS and PMOS FAQ: https://letsconceive.in/home/faq/pcos-faq
+- Male Fertility FAQ: https://letsconceive.in/home/faq/male-fertility-faq
+- Sperm Quality FAQ: https://letsconceive.in/home/faq/sperm-quality-faq
+- Egg Quality FAQ: https://letsconceive.in/home/faq/egg-quality-faq
+- Ovulation FAQ: https://letsconceive.in/home/faq/ovulation-faq
+- Implantation FAQ: https://letsconceive.in/home/faq/implantation-faq
+- Miscarriage FAQ: https://letsconceive.in/home/faq/miscarriage-faq
+- Failed IVF FAQ: https://letsconceive.in/home/faq/failed-ivf-faq
+- IVF FAQ: https://letsconceive.in/home/faq/ivf-faq
+- Endometriosis FAQ: https://letsconceive.in/home/faq/endometriosis-faq
+- Unexplained Infertility FAQ: https://letsconceive.in/home/faq/unexplained-infertility-faq
+- Secondary Infertility FAQ: https://letsconceive.in/home/faq/secondary-infertility-faq
 
 ## Health concerns
 
-- [Health concerns hub](https://letsconceive.in/home/healthconcern): Index of 22 fertility-related conditions.
-- [PCOS is now called PMOS](https://letsconceive.in/home/healthconcern/pmos): What the May 2026 rename changed, and why diagnosis and treatment are unaffected.
-- [PCOS and PMOS](https://letsconceive.in/home/healthconcern/pcod-pcos): How the condition affects ovulation and fertility.
-- [Low AMH](https://letsconceive.in/home/healthconcern/low-amh): Low AMH means fewer eggs, not poorer quality eggs.
-- [Anovulation](https://letsconceive.in/home/healthconcern/anovulation)
-- [Irregular periods](https://letsconceive.in/home/healthconcern/irregular-periods)
-- [Hormonal imbalance](https://letsconceive.in/home/healthconcern/hormonal-imbalance)
-- [Thyroid imbalance](https://letsconceive.in/home/healthconcern/thyroid-imbalance)
-- [Insulin resistance](https://letsconceive.in/home/healthconcern/insulin-resistance)
-- [Low progesterone](https://letsconceive.in/home/healthconcern/low-progesterone)
-- [Luteal phase defect](https://letsconceive.in/home/healthconcern/luteal-phase-defect)
-- [High prolactin](https://letsconceive.in/home/healthconcern/high-prolactin)
-- [Estrogen dominance](https://letsconceive.in/home/healthconcern/estrogen-dominance)
-- [Early perimenopause](https://letsconceive.in/home/healthconcern/early-perimenopause)
-- [Premature ovarian aging](https://letsconceive.in/home/healthconcern/premature-ovarian-aging)
-- [Poor egg quality](https://letsconceive.in/home/healthconcern/poor-egg-quality)
-- [Poor egg maturity](https://letsconceive.in/home/healthconcern/poor-egg-maturity)
-- [Obesity or overweight](https://letsconceive.in/home/healthconcern/obesity-or-overweight)
-- [Gut dysbiosis](https://letsconceive.in/home/healthconcern/gut-dysbiosis)
-- [Leaky gut and inflammation](https://letsconceive.in/home/healthconcern/leaky-gut-inflammation)
-- [Digestive and metabolic disorders](https://letsconceive.in/home/healthconcern/digestive-metabolic-disorders)
-- [Non-alcoholic fatty liver](https://letsconceive.in/home/healthconcern/non-alcoholic-fatty-liver)
-- [Tubal or structural problems](https://letsconceive.in/home/healthconcern/tubal-or-structural-problems)
+- Health concerns hub: https://letsconceive.in/home/healthconcern
+- PCOS is now called PMOS: https://letsconceive.in/home/healthconcern/pmos
+- PCOS and PMOS: https://letsconceive.in/home/healthconcern/pcod-pcos
+- Low AMH: https://letsconceive.in/home/healthconcern/low-amh
+- Anovulation: https://letsconceive.in/home/healthconcern/anovulation
+- Irregular periods: https://letsconceive.in/home/healthconcern/irregular-periods
+- Hormonal imbalance: https://letsconceive.in/home/healthconcern/hormonal-imbalance
+- Thyroid imbalance: https://letsconceive.in/home/healthconcern/thyroid-imbalance
+- Insulin resistance: https://letsconceive.in/home/healthconcern/insulin-resistance
+- Low progesterone: https://letsconceive.in/home/healthconcern/low-progesterone
+- Luteal phase defect: https://letsconceive.in/home/healthconcern/luteal-phase-defect
+- High prolactin: https://letsconceive.in/home/healthconcern/high-prolactin
+- Estrogen dominance: https://letsconceive.in/home/healthconcern/estrogen-dominance
+- Early perimenopause: https://letsconceive.in/home/healthconcern/early-perimenopause
+- Premature ovarian aging: https://letsconceive.in/home/healthconcern/premature-ovarian-aging
+- Poor egg quality: https://letsconceive.in/home/healthconcern/poor-egg-quality
+- Poor egg maturity: https://letsconceive.in/home/healthconcern/poor-egg-maturity
+- Obesity or overweight: https://letsconceive.in/home/healthconcern/obesity-or-overweight
+- Gut dysbiosis: https://letsconceive.in/home/healthconcern/gut-dysbiosis
+- Leaky gut and inflammation: https://letsconceive.in/home/healthconcern/leaky-gut-inflammation
+- Digestive and metabolic disorders: https://letsconceive.in/home/healthconcern/digestive-metabolic-disorders
+- Non-alcoholic fatty liver: https://letsconceive.in/home/healthconcern/non-alcoholic-fatty-liver
+- Tubal or structural problems: https://letsconceive.in/home/healthconcern/tubal-or-structural-problems
 
 ## Guides
 
-- [Fertility guide hub](https://letsconceive.in/home/fertility-guide)
-- [How to get pregnant naturally](https://letsconceive.in/home/fertility-guide/how-to-get-pregnant)
-- [Planning a pregnancy](https://letsconceive.in/home/fertility-guide/planning-a-pregnancy)
-- [Fertile window and timing](https://letsconceive.in/home/fertility-guide/fertile-window-and-timing)
-- [Fertility treatment cost in India](https://letsconceive.in/home/fertility-guide/fertility-treatment-cost-india): What IVF costs once medication, add-ons and repeat cycles are counted.
-- [Fertility treatments explained](https://letsconceive.in/fertility-treatments): How IUI, IVF and donor options work and when each is appropriate.
+- Fertility guide hub: https://letsconceive.in/home/fertility-guide
+- How to get pregnant naturally: https://letsconceive.in/home/fertility-guide/how-to-get-pregnant
+- Planning a pregnancy: https://letsconceive.in/home/fertility-guide/planning-a-pregnancy
+- Fertile window and timing: https://letsconceive.in/home/fertility-guide/fertile-window-and-timing
+- Fertility treatment cost in India: https://letsconceive.in/home/fertility-guide/fertility-treatment-cost-india
+- Fertility treatments explained: https://letsconceive.in/fertility-treatments
 
-## Company
+## Key pages
 
-- [About Let's Conceive](https://letsconceive.in/home/about-us): The founding story and the team.
-- [Success stories](https://letsconceive.in/testimonials): Video testimonials from couples who conceived naturally.
-- [Free fertility assessment](https://letsconceive.in/fertility-test)
-- [Contact](https://letsconceive.in/home/contact-us)
-- [Blog](https://letsconceive.in/home/blog)
-- [Research explainers](https://letsconceive.in/home/researches)
-- [Free ebooks and guides](https://letsconceive.in/home/resources)
+- Free fertility assessment: https://letsconceive.in/fertility-test
+- Success stories, video testimonials: https://letsconceive.in/testimonials
+- About the founders and team: https://letsconceive.in/home/about-us
+- Blog: https://letsconceive.in/home/blog
+- Research explainers: https://letsconceive.in/home/researches
+- Free ebooks and guides: https://letsconceive.in/home/resources
+- Contact: https://letsconceive.in/home/contact-us
+- Book a free consultation: https://app.letsconceive.in/widget/bookings/lets_conceive_30min
+
+## Facts
+
+- Founded after co-founder Pooja Doshi's miscarriage, to address the gap in preparing the body before trying to conceive.
+- Over 4,000 couples guided across 6 countries.
+- Focus is natural conception preparation where medically appropriate. It complements, and never replaces, medical care.
+- Contact: support@letsconceive.in | WhatsApp +91 8999313721
+- Registered location: Amravati, Maharashtra, India
 
 ## Optional
 
-- [Privacy policy](https://letsconceive.in/home/privacy-policies)
-- [Terms and conditions](https://letsconceive.in/home/terms-conditions)
-- [Medical disclaimer](https://letsconceive.in/home/medical-disclaimer)
-- [Cookie policy](https://letsconceive.in/home/cookie-policy)
+- Privacy policy: https://letsconceive.in/home/privacy-policies
+- Terms and conditions: https://letsconceive.in/home/terms-conditions
+- Medical disclaimer: https://letsconceive.in/home/medical-disclaimer
+- Cookie policy: https://letsconceive.in/home/cookie-policy
+</pre>
