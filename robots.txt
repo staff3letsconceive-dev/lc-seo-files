@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+Disallow: /blogs/category/
+Disallow: /blogs/tag/
+Disallow: /blogs/author/
+
 Sitemap: https://letsconceive.in/sitemap.xml
